@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-image
+tqdm
+Pillow
+glymur
+nbformat
