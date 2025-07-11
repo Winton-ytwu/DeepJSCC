@@ -1,6 +1,6 @@
 # Deep Joint Source-Channel Coding for Wireless Image Transmission
 
-This repository contains a complete implementation and reproduction of the experiments from the seminal paper: ["Deep Joint Source-Channel Coding for Wireless Image Transmission"](https://arxiv.org/abs/1805.07521). The project is structured to be a faithful and verifiable replication of the paper's core results, demonstrating the superiority of the Deep JSCC approach over traditional separation-based methods like `JPEG` and `JPEG2000`.
+This repository contains a complete implementation and reproduction of the experiments from the seminal paper: ["Deep Joint Source-Channel Coding for Wireless Image Transmission"]. The project is structured to be a faithful and verifiable replication of the paper's core results, demonstrating the superiority of the Deep JSCC approach over traditional separation-based methods like `JPEG` and `JPEG2000`.
 
 This implementation was developed as a personal research project to deeply understand the principles of deep learning-based communication systems. It is intended to be a clean, well-documented, and easily reproducible codebase.
 
